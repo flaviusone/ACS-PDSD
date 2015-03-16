@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Layout Sample 1</string>
+    <string name="greeting">Hello, ???!</string>
+    <string name="anonymous">anonymous</string>
+    <string name="introduce_yourself">Introduce yourself</string>
+    <string name="display_identity">Display identity</string>
+    <string name="submit">Submit</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

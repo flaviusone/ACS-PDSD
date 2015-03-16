@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Button Samples</string>
+    <string name="action_settings">Settings</string>
+    <string name="monday">Mo</string>
+    <string name="tuesday">Tu</string>
+    <string name="wednesday">We</string>
+    <string name="thursday">Th</string>
+    <string name="friday">Fr</string>
+    <string name="display_only_free_slots">Display ONLY free slots</string>
+	<string name="notify_on">Notify On</string>
+	<string name="notify_off">Notify Off</string>
+	<string name="suggestions_on">Suggestions On</string>
+	<string name="suggestions_off">Suggestions Off</string>
+	<string name="send_request">Send Request</string>
+	<string name="none"></string>
+
+</resources>

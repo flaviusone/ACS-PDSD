@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Text Samples</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Facultatea de Automatica si Calculatoare, Universitatea Politehnica Bucuresti</string>
+    <string name="web">http://acs.pub.ro</string>
+    <string name="email">admin@acs.pub.ro</string>
+    <string name="phone">0214029179</string>
+    <string name="map">Address: 313 Splaiul Independentei, Bucharest</string>
+    <string name="enter_courses_path">Enter courses path</string>
+
+</resources>
