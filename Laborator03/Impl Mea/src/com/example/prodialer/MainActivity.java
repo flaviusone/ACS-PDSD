@@ -29,7 +29,7 @@ public class MainActivity extends Activity {
 			
 			EditText phoneNumberEditText = (EditText)findViewById(R.id.editText1);
 			String phoneNumber = phoneNumberEditText.getText().toString();
-
+			
 			if (view instanceof Button) {
 				switch(view.getId()) {
 				case R.id.call_button:
