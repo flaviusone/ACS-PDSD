@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cartoons>
+    <cartoon>
+        <name>Mickey Mouse</name>
+        <creator>Walt Disney, Ub Iwerks</creator>
+        <debut>18.11.1928</debut>
+        <picture>picture01_mickeymouse</picture>
+    </cartoon>
+    <cartoon>
+        <name>The Simpsons</name>
+        <creator>Matt Groening</creator>
+        <debut>17.12.1989</debut>
+        <picture>picture02_thesimpsons</picture>
+    </cartoon>
+    <cartoon>
+        <name>Looney Tunes</name>
+        <creator>Warner Bros.</creator>
+        <debut>19.04.1930</debut>
+        <picture>picture03_looneytunes</picture>
+    </cartoon>
+    <cartoon>
+        <name>Road Runner</name>
+        <creator>Chuck Jones</creator>
+        <debut>17.09.1949</debut>
+        <picture>picture04_roadrunner</picture>
+    </cartoon>
+    <cartoon>
+        <name>Tom &amp; Jerry</name>
+        <creator>William Hanna, Joseph Barbera</creator>
+        <debut>10.02.1940</debut>
+        <picture>picture05_tomandjerry</picture>
+    </cartoon>
+    <cartoon>
+        <name>Scooby Doo</name>
+        <creator>Joe Ruby, Ken Spears</creator>
+        <debut>13.09.1969</debut>
+        <picture>picture06_scoobydoo</picture>
+    </cartoon>
+    <cartoon>
+        <name>Family Guy</name>
+        <creator>Seth MacFarlane</creator>
+        <debut>15.05.1998</debut>
+        <picture>picture07_familyguy</picture>
+    </cartoon>
+    <cartoon>
+        <name>The Flinstones</name>
+        <creator>William Hanna, Joseph Barbera</creator>
+        <debut>30.09.1969</debut>
+        <picture>picture08_theflinstones</picture>
+    </cartoon>
+    <cartoon>
+        <name>Dragon Ball Z</name>
+        <creator>Toei Animation</creator>
+        <debut>25.04.1989</debut>
+        <picture>picture09_dragonballz</picture>
+    </cartoon>
+    <cartoon>
+        <name>South Park</name>
+        <creator>Trey Parker, Matt Stone</creator>
+        <debut>13.08.1997</debut>
+        <picture>picture10_southpark</picture>
+    </cartoon>                                
+</cartoons>

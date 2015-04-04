@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+    <person>
+        <name>Adina-Magda FLOREA</name>
+        <position>Decan</position>
+    </person>
+    <person>
+        <name>Ciprian LUPU</name>
+        <position>prodecan</position>
+    </person>
+    <person>
+        <name>Florica MOLDOVEANU</name>
+        <position>prodecan</position>
+    </person>
+    <person>
+        <name>Florin RADULESCU</name>
+        <position>prodecan</position>
+    </person>
+    <person>
+        <name>Dan POPESCU</name>
+        <position>prodecan</position>
+    </person>
+    <person>
+        <name>Emil SLUSANSCHI</name>
+        <position>prodecan</position>
+    </person>
+    <person>
+        <name>Dan STEFANOIU</name>
+        <position>prodecan</position>
+    </person>
+    <person>
+        <name>Theodor BORANGIU</name>
+        <position>directorul scolii doctorale</position>
+    </person>   
+    <person>
+        <name>Nicolae TAPUS</name>
+        <position>director de departament</position>
+    </person> 
+    <person>
+        <name>Cristian OARA</name>
+        <position>director de departament</position>
+    </person>           
+    <person>
+        <name>Dorin CARSTOIU</name>
+        <position>director de departament</position>
+    </person>       
+    <person>
+        <name>Gheorghe ARSENE</name>
+        <position>administrator</position>
+    </person>
+    <person>
+        <name>Irina CONSTANTINESCU</name>
+        <position>secretar sef</position>
+    </person>     
+</people>

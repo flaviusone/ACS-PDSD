@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="ro.pub.cs.systems.pdsd.lab05.addressbook.view.AddressBookActivity" >
+    
+    <FrameLayout 
+        android:id="@+id/contact_basic_details"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" 
+        android:layout_weight="3" />
+    
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp" />
+    
+     <FrameLayout
+        android:id="@+id/contact_additional_details"
+        android:layout_width="match_parent"
+        android:layout_height="0dp" 
+        android:layout_weight="1" />
+
+</LinearLayout>

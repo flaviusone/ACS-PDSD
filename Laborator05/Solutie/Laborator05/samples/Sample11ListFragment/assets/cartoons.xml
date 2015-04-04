@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cartoons>
+    <cartoon>
+        <name>Mickey Mouse</name>
+        <creator>Walt Disney, Ub Iwerks</creator>
+        <debut>18.11.1928</debut>
+        <picture>cartoon01</picture>
+        <characters>
+            <character>
+                <name>Mickey Mouse</name>
+                <species>mouse</species>
+                <gender>male</gender>
+                <debut>Streamboat Willie (1928)</debut>
+                <picture>cartoon01_character01</picture>
+            </character>
+            <character>
+                <name>Minnie Mouse</name>
+                <species>mouse</species>
+                <gender>female</gender>
+                <debut>Streamboat Willie (1928)</debut>
+                <picture>cartoon01_character02</picture>
+            </character>
+            <character>
+                <name>Pluto</name>
+                <species>hound dog</species>
+                <gender>male</gender>
+                <debut>Just Dogs (1932)</debut>
+                <picture>cartoon01_character03</picture>
+            </character>
+        </characters>
+    </cartoon>
+    <cartoon>
+        <name>The Simpsons</name>
+        <creator>Matt Groening</creator>
+        <debut>17.12.1989</debut>
+        <picture>cartoon02</picture>
+        <characters>
+            <character>
+                <name>Homer Simpson</name>
+                <species>human?</species>
+                <gender>male</gender>
+                <debut>Good Night (1987)</debut>
+                <picture>cartoon02_character01</picture>
+            </character>
+            <character>
+                <name>Marge Simpson</name>
+                <species>human?</species>
+                <gender>female</gender>
+                <debut>Good Night (1987)</debut>
+                <picture>cartoon02_character02</picture>
+            </character>
+            <character>
+                <name>Bart Simpson</name>
+                <species>human?</species>
+                <gender>male</gender>
+                <debut>Good Night (1987)</debut>
+                <picture>cartoon02_character03</picture>
+            </character>
+            <character>
+                <name>Lisa Simpson</name>
+                <species>human?</species>
+                <gender>female</gender>
+                <debut>Good Night (1987)</debut>
+                <picture>cartoon02_character04</picture>
+            </character>
+            <character>
+                <name>Maggie Simpson</name>
+                <species>human?</species>
+                <gender>female</gender>
+                <debut>Good Night (1987)</debut>
+                <picture>cartoon02_character05</picture>
+            </character>
+        </characters>
+    </cartoon>
+    <cartoon>
+        <name>Looney Tunes</name>
+        <creator>Warner Bros.</creator>
+        <debut>19.04.1930</debut>
+        <picture>cartoon03</picture>
+        <characters>
+            <character>
+                <name>Buggs Bunny</name>
+                <species>rabbit</species>
+                <gender>male</gender>
+                <debut>A Wild Hare (1940)</debut>
+                <picture>cartoon03_character01</picture>
+            </character>
+            <character>
+                <name>Duffy Duck</name>
+                <species>duck</species>
+                <gender>male</gender>
+                <debut>Porky&apos;s Duck Hunt (1937)</debut>
+                <picture>cartoon03_character02</picture>
+            </character>
+            <character>
+                <name>Porky Pig</name>
+                <species>pig</species>
+                <gender>male</gender>
+                <debut>I Haven&apos;t Got a Hat (1935)</debut>
+                <picture>cartoon03_character03</picture>
+            </character>
+            <character>
+                <name>Elmer J. Fudd</name>
+                <species>human</species>
+                <gender>male</gender>
+                <debut>Egghead Rides Again (1937)</debut>
+                <picture>cartoon03_character04</picture>
+            </character>
+            <character>
+                <name>Sylvester</name>
+                <species>cat</species>
+                <gender>male</gender>
+                <debut>Life With Feathers (1945)</debut>
+                <picture>cartoon03_character05</picture>
+            </character>
+            <character>
+                <name>Tweety</name>
+                <species>Yellow Canary</species>
+                <gender>male/female</gender>
+                <debut>A Tale of Two Kitties (1942)</debut>
+                <picture>cartoon03_character06</picture>
+            </character>
+        </characters>
+    </cartoon>
+    <cartoon>
+        <name>Road Runner</name>
+        <creator>Chuck Jones</creator>
+        <debut>17.09.1949</debut>
+        <picture>cartoon04</picture>
+        <characters>
+            <character>
+	            <name>Wile E. Coyote</name>
+	            <species>coyote</species>
+	            <gender>male</gender>
+	            <debut>Fast and Furry-ous (1949)</debut>
+	            <picture>cartoon04_character01</picture>
+            </character>
+            <character>
+                <name>The Road Runner</name>
+                <species>roadrunner</species>
+                <gender>male</gender>
+                <debut>Fast and Furry-ous (1949)</debut>
+                <picture>cartoon04_character02</picture>
+            </character>
+        </characters>
+    </cartoon>
+    <cartoon>
+        <name>Tom &amp; Jerry</name>
+        <creator>William Hanna, Joseph Barbera</creator>
+        <debut>10.02.1940</debut>
+        <picture>cartoon05</picture>
+        <characters>
+            <character>
+                <name>Tom Cat</name>
+                <species>russian blue</species>
+                <gender>male</gender>
+                <debut>Puss Gets the Boot (1940)</debut>
+                <picture>cartoon05_character01</picture>
+            </character>
+            <character>
+                <name>Jerry Mouse</name>
+                <species>house mouse</species>
+                <gender>male</gender>
+                <debut>Puss Gets the Boot (1940)</debut>
+                <picture>cartoon05_character02</picture>
+            </character>
+        </characters>
+    </cartoon>
+    <cartoon>
+        <name>Scooby Doo</name>
+        <creator>Joe Ruby, Ken Spears</creator>
+        <debut>13.09.1969</debut>
+        <picture>cartoon06</picture>
+        <characters>
+            <character>
+                <name>Fred Jones</name>
+                <species>human</species>
+                <gender>male</gender>
+                <debut>What a Night for a Knight </debut>
+                <picture>cartoon06_character01</picture>
+            </character>
+            <character>
+                <name>Daphne Anne Blake</name>
+                <species>human</species>
+                <gender>female</gender>
+                <debut>What a Night for a Knight</debut>
+                <picture>cartoon06_character02</picture>
+            </character>
+            <character>
+                <name>Velma Dinkley</name>
+                <species>human</species>
+                <gender>female</gender>
+                <debut>What a Night for a Knight</debut>
+                <picture>cartoon06_character03</picture>
+            </character>
+            <character>
+                <name>Norville &quot;Shaggy&quot; Rogers</name>
+                <species>human</species>
+                <gender>male</gender>
+                <debut>What a Night for a Knight</debut>
+                <picture>cartoon06_character04</picture>
+            </character>
+            <character>
+                <name>Scoobert &quot;Scooby-Doo&quot;</name>
+                <species>dog</species>
+                <gender>male</gender>
+                <debut>What a Night for a Knight</debut>
+                <picture>cartoon06_character05</picture>
+            </character>                                                           
+        </characters>
+    </cartoon>
+    <cartoon>
+        <name>Family Guy</name>
+        <creator>Seth MacFarlane</creator>
+        <debut>15.05.1998</debut>
+        <picture>cartoon07</picture>
+        <characters>
+            <character>
+                <name>Peter Lowenbrau Griffin</name>
+                <species>human</species>
+                <gender>male</gender>
+                <debut>Death Has a Shadow (1999)</debut>
+                <picture>cartoon07_character01</picture>
+            </character>     
+            <character>
+                <name>Lois Patrice Griffin</name>
+                <species>human</species>
+                <gender>female</gender>
+                <debut>Death Has a Shadow (1999)</debut>
+                <picture>cartoon07_character02</picture>
+            </character>
+            <character>
+                <name>Megan Griffin</name>
+                <species>human</species>
+                <gender>female</gender>
+                <debut>Death Has a Shadow (1999)</debut>
+                <picture>cartoon07_character03</picture>
+            </character>
+            <character>
+                <name>Christopher Cross Griffin</name>
+                <species>human</species>
+                <gender>male</gender>
+                <debut>Death Has a Shadow (1999)</debut>
+                <picture>cartoon07_character04</picture>
+            </character>
+            <character>
+                <name>Stewart Gilligan Griffin</name>
+                <species>human</species>
+                <gender>male</gender>
+                <debut>Death Has a Shadow (1999)</debut>
+                <picture>cartoon07_character05</picture>
+            </character>
+            <character>
+                <name>Brian Griffin</name>
+                <species>dog</species>
+                <gender>male</gender>
+                <debut>Death Has a Shadow (1999)</debut>
+                <picture>cartoon07_character06</picture>
+            </character>                                                                   
+        </characters>
+    </cartoon>
+    <cartoon>
+        <name>The Flintsones</name>
+        <creator>William Hanna, Joseph Barbera</creator>
+        <debut>30.09.1960</debut>
+        <picture>cartoon08</picture>
+        <characters>
+            <character>
+                <name>Fred Flintsone</name>
+                <species>caveman</species>
+                <gender>male</gender>
+                <debut>The Flintstone Flyer</debut>
+                <picture>cartoon08_character01</picture>
+            </character>
+            <character>
+                <name>Wilma Flintstone</name>
+                <species>cavewomen</species>
+                <gender>female</gender>
+                <debut>The Flintstone Flyer</debut>
+                <picture>cartoon08_character02</picture>
+            </character>
+            <character>
+                <name>Pebbles Flintstone</name>
+                <species>cavewoman</species>
+                <gender>female</gender>
+                <debut>The Blessed Event</debut>
+                <picture>cartoon08_character03</picture>
+            </character>
+            <character>
+                <name>Dino</name>
+                <species>snorkasaurus</species>
+                <gender>male</gender>
+                <debut>The Flintstone Flyer</debut>
+                <picture>cartoon08_character04</picture>
+            </character>
+            <character>
+                <name>Barney Rubble</name>
+                <species>caveman</species>
+                <gender>male</gender>
+                <debut>The Flintstone Flyer</debut>
+                <picture>cartoon08_character05</picture>
+            </character>  
+             <character>
+                <name>Betty Rubble</name>
+                <species>cavewoman</species>
+                <gender>female</gender>
+                <debut>The Flintstone Flyer</debut>
+                <picture>cartoon08_character06</picture>
+            </character>
+            <character>
+                <name>Bamm-Bamm Rubble</name>
+                <species>caveman</species>
+                <gender>male</gender>
+                <debut>Little Bamm Bamm</debut>
+                <picture>cartoon08_character07</picture>
+            </character> 
+            <character>
+                <name>Hoppy</name>
+                <species>hopparoo</species>
+                <gender>male</gender>
+                <debut>Hop Happy</debut>
+                <picture>cartoon08_character08</picture>
+            </character>                                                            
+        </characters>
+    </cartoon>
+    <cartoon>
+        <name>Dragon Ball Z</name>
+        <creator>Toei Animation</creator>
+        <debut>25.04.1989</debut>
+        <picture>cartoon09</picture>
+        <characters>
+            <character>
+                <name>Son Goku</name>
+                <species>saiyan</species>
+                <gender>male</gender>
+                <debut>Dragon Ball chapter #1: Bulma and Son Goku</debut>
+                <picture>cartoon09_character01</picture>
+            </character>    
+            <character>
+                <name>Son Gohan</name>
+                <species>1/2 saiyan / 1/2 human</species>
+                <gender>male</gender>
+                <debut>Dragon Ball chapter #196: Kakarrot</debut>
+                <picture>cartoon09_character02</picture>
+            </character>     
+            <character>
+                <name>Piccolo</name>
+                <species>namekian</species>
+                <gender>male</gender>
+                <debut>Dragon Ball chapter #161: Son Goku wins</debut>
+                <picture>cartoon09_character03</picture>
+            </character>  
+            <character>
+                <name>Vegeta</name>
+                <species>saiyan</species>
+                <gender>male</gender>
+                <debut>Dragon Ball chapter #204: Goodbye Son Goku</debut>
+                <picture>cartoon09_character04</picture>
+            </character>                                             
+        </characters>
+    </cartoon>
+    <cartoon>
+        <name>South Park</name>
+        <creator>Trey Parker, Matt Stone</creator>
+        <debut>13.08.1997</debut>
+        <picture>cartoon10</picture>
+        <characters>
+            <character>
+                <name>Stanley Marsh</name>
+                <species>human</species>
+                <gender>male</gender>
+                <debut>Jesus vs. Frosty</debut>
+                <picture>cartoon10_character01</picture>
+            </character>  
+            <character>
+                <name>Kyle Broflovsky</name>
+                <species>human</species>
+                <gender>male</gender>
+                <debut>Jesus vs. Frosty</debut>
+                <picture>cartoon10_character02</picture>
+            </character>  
+            <character>
+                <name>Eric Theodore Cartman</name>
+                <species>human</species>
+                <gender>male</gender>
+                <debut>Jesus vs. Frosty</debut>
+                <picture>cartoon10_character03</picture>
+            </character>  
+            <character>
+                <name>Kenneth McCormick</name>
+                <species>human</species>
+                <gender>male</gender>
+                <debut>Jesus vs. Frosty</debut>
+                <picture>cartoon10_character04</picture>
+            </character>                                                  
+        </characters>
+    </cartoon>                                
+</cartoons>

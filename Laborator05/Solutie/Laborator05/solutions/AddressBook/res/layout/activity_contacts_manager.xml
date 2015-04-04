@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    tools:context="ro.pub.cs.systems.pdsd.lab05.addressbook.view.ContactsManagerActivity" >
+	
+	<LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+	    android:orientation="vertical" >
+	
+	    <EditText
+	        android:id="@+id/contact_name_edit_text"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:ems="10"
+	        android:inputType="textPersonName" >
+	
+	        <requestFocus />
+	    </EditText>
+	    
+	    <LinearLayout
+	        android:id="@+id/contact_phone_number_layout"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="vertical" >
+	        
+	        <LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content" >
+	            
+	            <EditText
+	                android:id="@+id/contact_phone_number_edit_text"
+	                android:layout_width="0dp"
+	                android:layout_height="wrap_content"
+	                android:layout_weight="3"
+	                android:layout_gravity="center"
+	                android:inputType="phone" />
+	            
+	            <Spinner
+	                android:id="@+id/contact_phone_number_type_spinner"
+	                android:layout_width="0dp"
+	                android:layout_height="wrap_content"
+	                android:layout_weight="2"
+	                android:layout_gravity="center"
+	                android:entries="@array/phone_number_types" />
+	            
+	        </LinearLayout>
+	        
+	    </LinearLayout>
+	    
+	    <Button
+	        android:id="@+id/add_another_phone_number_button"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center"
+	        android:text="@string/add_another_phone_number" />    
+	
+	    <LinearLayout
+	        android:id="@+id/contact_email_address_layout"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="vertical" >
+	        
+	        <LinearLayout
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content" >
+	            
+	            <EditText
+	                android:id="@+id/contact_email_address_edit_text"
+	                android:layout_width="0dp"
+	                android:layout_height="wrap_content"
+	                android:layout_weight="3"
+	                android:layout_gravity="center"
+	                android:inputType="textEmailAddress" />
+	            
+	            <Spinner
+	                android:id="@+id/contact_email_address_type_spinner"
+	                android:layout_width="0dp"
+	                android:layout_height="wrap_content"
+	                android:layout_weight="2"
+	                android:layout_gravity="center"
+	                android:entries="@array/email_addresses_types" />
+	            
+	        </LinearLayout>
+	        
+	    </LinearLayout>
+	    
+	    <Button
+	        android:id="@+id/add_another_email_address_button"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center"
+	        android:text="@string/add_another_email_address" /> 
+	    
+	    <LinearLayout
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center" >
+	        
+	        <Button
+	            android:id="@+id/save_button"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/save" />
+	        
+	        <Space
+	            android:layout_width="10dp"
+	            android:layout_height="wrap_content" />
+	        
+	        <Button
+	            android:id="@+id/cancel_button"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:text="@string/cancel" />
+	
+	    </LinearLayout>
+	
+	</LinearLayout>
+</ScrollView>

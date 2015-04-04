@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sample 02 - ListView</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="cartoons">
+        <item>Mickey Mouse</item>
+        <item>The Simpsons</item>
+        <item>Looney Toons</item>
+        <item>Road Runner</item>
+        <item>Tom &amp; Jerry</item>
+        <item>Scooby Doo</item>
+        <item>Family Guy</item>
+        <item>The Flinstones</item>
+        <item>Dragon Ball Z</item>
+        <item>South Park</item>
+    </string-array>
+
+</resources>

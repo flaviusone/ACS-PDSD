@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobile Devices Manufacturers</string>
+    <string name="action_settings">Settings</string>
+    <string name="prompt">Select a Mobile Device Manufacturer</string>
+    <string-array name="mobile_device_manufacturer">
+        <item>Nokia</item>
+        <item>Samsung</item>
+        <item>Motorola</item>
+        <item>Sony</item>
+        <item>LG</item>
+        <item>Apple</item>
+        <item>HTC</item>
+        <item>BlackBerry</item>
+        <item>HP</item>
+        <item>Huawei</item>
+        <item>Acer</item>
+        <item>Asus</item>
+        <item>Alcatel</item>
+        <item>Vodafone</item>
+        <item>T-Mobile</item>
+        <item>Toshiba</item>
+        <item>Gigabyte</item>
+        <item>Pantech</item>
+        <item>ZTE</item>
+        <item>Xolo</item>
+        <item>Micromax</item>
+    </string-array>
+
+</resources>

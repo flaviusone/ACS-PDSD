@@ -1,0 +1,44 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item
+	    android:id="@+id/operations"
+	    android:title="@string/operations" >
+		<menu>
+		    <item
+		        android:id="@+id/create"
+		        android:icon="@drawable/create"
+		        android:orderInCategory="100"
+		        android:showAsAction="ifRoom"
+		        android:title="@string/create"/>
+		    <item
+		        android:id="@+id/update"
+		        android:icon="@drawable/update"
+		        android:orderInCategory="100"
+				android:showAsAction="ifRoom"
+		        android:title="@string/update"/>
+		    <item
+		        android:id="@+id/delete"
+		        android:icon="@drawable/delete"
+		        android:orderInCategory="100"
+				android:showAsAction="ifRoom"
+		        android:title="@string/delete"/>
+		    <item
+		        android:id="@+id/search"
+		        android:icon="@drawable/search"
+		        android:orderInCategory="100"
+		        android:showAsAction="ifRoom"
+		        android:title="@string/search"/>	    
+	    </menu>
+    </item>
+	<item
+	    android:id="@+id/settings"
+	    android:icon="@drawable/settings"
+	    android:orderInCategory="100"
+	    android:showAsAction="ifRoom"
+	    android:title="@string/settings"/>
+	<item
+	    android:id="@+id/about"
+	    android:icon="@drawable/about"
+	    android:orderInCategory="100"
+	    android:showAsAction="ifRoom"
+	    android:title="@string/about"/>		
+</menu>

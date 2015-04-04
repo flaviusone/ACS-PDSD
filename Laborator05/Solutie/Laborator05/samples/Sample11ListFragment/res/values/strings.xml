@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cartoons</string>
+    <string name="content_description">Cartoon Logo</string>
+    <string name="operations">Operatii</string>
+    <string name="create">Creeaza</string>
+    <string name="update">Actualizeaza</string>
+    <string name="delete">Sterge</string>
+    <string name="search">Cauta</string>
+    <string name="settings">Configurari</string>
+    <string name="about">Despre</string>
+
+</resources>
