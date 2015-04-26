@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PracticalTest01Var05</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_practical_test01_var05_secondary">PracticalTest01Var05SecondaryActivity</string>
+
+</resources>

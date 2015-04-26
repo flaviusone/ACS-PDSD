@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:saveEnabled="false"
+    tools:context="ro.pub.cs.systems.pdsd.practicaltest01var05.MainActivity"
+    tools:ignore="MergeRootFrame" >
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:alignmentMode="alignMargins"
+        android:columnCount="3"
+        android:layout_gravity="center"
+        android:rowCount="3"
+        android:stretchMode="columnWidth"
+        android:useDefaultMargins="false" >
+
+        <Button
+            android:id="@+id/buttonWest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="0"
+            android:layout_gravity="center_horizontal|top"
+            android:layout_row="1"
+            android:text="West" />
+
+        <Button
+            android:id="@+id/buttonSouth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_gravity="center_horizontal|top"
+            android:layout_row="2"
+            android:text="South" />
+
+        <Button
+            android:id="@+id/buttonNorth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_gravity="center_horizontal|top"
+            android:layout_row="0"
+            android:text="North" />
+
+        <Button
+            android:id="@+id/buttonEast"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="2"
+            android:layout_gravity="left|top"
+            android:layout_row="1"
+            android:text="East" />
+    </GridLayout>
+
+    <EditText
+      android:id="@+id/direction_text"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_weight="1"
+      android:enabled="false"
+      android:gravity="center" />
+    <Button
+      android:id="@+id/nextActivity"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_gravity="center"
+      android:text="Navigate to secondary activity" />
+
+</LinearLayout>

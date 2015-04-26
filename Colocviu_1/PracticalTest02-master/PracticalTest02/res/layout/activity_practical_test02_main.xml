@@ -1,0 +1,104 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="ro.pub.cs.systems.pdsd.practicaltest02.PracticalTest02MainActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/navigate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Navigate to secondary activity"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_weight="1" />
+
+    </LinearLayout>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:id="@+id/left_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:enabled="false"
+            android:saveEnabled="false"/>
+
+        <EditText
+            android:id="@+id/right_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:enabled="false"
+            android:saveEnabled="false">
+
+            <requestFocus />
+        </EditText>
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ScrollView
+            android:id="@+id/scrollView1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+            </LinearLayout>
+        </ScrollView>
+
+        <Button
+            android:id="@+id/button_left"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Press me!"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:gravity="center"/>
+
+        <ScrollView
+            android:id="@+id/scrollView2"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical" >
+            </LinearLayout>
+        </ScrollView>
+
+        <Button
+            android:id="@+id/button_right"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Press me, too!"
+            android:layout_weight="1"
+            android:layout_gravity="center"
+            android:gravity="center" />
+
+    </LinearLayout>
+
+</LinearLayout>

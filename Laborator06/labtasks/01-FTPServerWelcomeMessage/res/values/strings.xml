@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FTPServerWelcomeMessage</string>
+    <string name="action_settings">Settings</string>
+    <string name="ftp_server_address">FTP Server Address</string>
+    <string name="display_welcome_message">Display Welcome Message</string>
+
+</resources>

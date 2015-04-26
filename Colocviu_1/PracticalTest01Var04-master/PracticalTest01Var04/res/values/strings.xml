@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PracticalTest01Var04</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_do_star">Do*</string>
+    <string name="button_sol">Sol</string>
+    <string name="button_mi">Mi</string>
+    <string name="button_do">Do</string>
+    <string name="navigate">Navigate to secondary activity</string>
+    <string name="title_activity_practical_test01_var04_secondary">PracticalTest01Var04SecondaryActivity</string>
+
+</resources>
