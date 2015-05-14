@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ocw Courses Displayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="ocw_courses_list">Ocw Courses List</string>
+    <string name="logo_content_description">Course Logo</string>
+
+</resources>

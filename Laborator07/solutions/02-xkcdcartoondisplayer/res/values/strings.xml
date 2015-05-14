@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Xkcd Cartoon Displayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="xkcd_cartoon_content_description">Latest cartoon on xkcd!</string>
+    <string name="previous">&lt;| Previous</string>
+    <string name="next">Next |&gt;</string>
+
+</resources>
