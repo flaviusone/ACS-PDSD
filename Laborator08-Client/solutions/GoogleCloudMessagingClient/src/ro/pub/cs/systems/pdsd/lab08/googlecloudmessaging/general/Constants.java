@@ -8,15 +8,15 @@ public interface Constants {
 	
 	final public static String  PROJECT_NUMBER                         = "279663592308";
 	
-	/*
+	
 	final public static String  DEVICE_REGISTRATION_SERVICE_ADDRESS    = "http://pdsd2015.andreirosucojocaru.ro/exemple/laboratoare/laborator08/googlecloudmessaging/device_registration.php";
 	final public static String  REGISTERED_DEVICES_SERVICE_ADDRESS     = "http://pdsd2015.andreirosucojocaru.ro/exemple/laboratoare/laborator08/googlecloudmessaging/registered_devices.php";
 	final public static String  MESSAGE_PUSH_SERVICE_ADDRESS           = "http://pdsd2015.andreirosucojocaru.ro/exemple/laboratoare/laborator08/googlecloudmessaging/message_push.php";
-	*/
 	
-	final public static String  DEVICE_REGISTRATION_SERVICE_ADDRESS    = "http://192.168.56.1:8080/GoogleCloudMessagingServer/DeviceRegistrationServlet";
-	final public static String  REGISTERED_DEVICES_SERVICE_ADDRESS     = "http://192.168.56.1:8080/GoogleCloudMessagingServer/RegisteredDevicesServlet";
-	final public static String  MESSAGE_PUSH_SERVICE_ADDRESS           = "http://192.168.56.1:8080/GoogleCloudMessagingServer/MessagePushServlet";
+	
+//	final public static String  DEVICE_REGISTRATION_SERVICE_ADDRESS    = "http://192.168.56.1:8080/GoogleCloudMessagingServer/DeviceRegistrationServlet";
+//	final public static String  REGISTERED_DEVICES_SERVICE_ADDRESS     = "http://192.168.56.1:8080/GoogleCloudMessagingServer/RegisteredDevicesServlet";
+//	final public static String  MESSAGE_PUSH_SERVICE_ADDRESS           = "http://192.168.56.1:8080/GoogleCloudMessagingServer/MessagePushServlet";
 	
 
 	final public static int		PLAY_SERVICES_RESOLUTION_REQUEST       = 9000;

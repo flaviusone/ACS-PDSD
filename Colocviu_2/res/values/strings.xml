@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Colocviu2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="information_types">
+	    <item>temperature</item>
+	    <item>wind_speed</item>
+	    <item>condition</item>
+	    <item>pressure</item>
+	    <item>humidity</item>
+	    <item>all</item>
+  </string-array>
+</resources>
